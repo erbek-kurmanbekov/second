@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.active{
+    background-color: aqua;
+}
+.card{
+    background-color: crimson;
+}
+button{
+    color: forestgreen;
+    background-color: greenyellow;
+}
+h1{
+    color: rgb(255, 171, 64);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url(./img/3cb98-liga-chempionov.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.dif{
+    height: 750px;
+    width: 100%;
+}
